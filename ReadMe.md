@@ -1,14 +1,12 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ashish .
+### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Prince .
 
-[![Visits Badge](https://badges.pufler.dev/visits/Ashish-AVS/Ashish-AVS)](https://github.com/Ashish-AVS/Ashish-AVS?color=blue)
-![Repos Badge](https://badges.pufler.dev/repos/Ashish-AVS?color=red)
-
-
-Hi, I'm Ashish AVS, a CSE Sophomore at BITS Pilani, exploring Data Science and Web Development.
+A final year student, with passion in Information Security and Developing.
 
 ![](https://stats-gray.vercel.app/api?username=p21nc3&show_icons=true&count_private=true&include_all_commits=true&title_color=83d1a2&icon_color=9ca1b8&text_color=9ca1b8&bg_color=0f0f13)  
-![](https://komarev.com/ghpvc/?username=p21nc3&color=83d1a2) 
+![](https://komarev.com/ghpvc/?username=p21nc3&color=83d1a2)
+![Repos Badge](https://badges.pufler.dev/repos/p21nc3?color=red)
 
+<!--
 ## Skills:
 
 <div>
@@ -39,18 +37,13 @@ Hi, I'm Ashish AVS, a CSE Sophomore at BITS Pilani, exploring Data Science and W
 </a>
     
 </div>
-
-## 📈 My GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashish-AVS&show_icons=true&locale=en" alt="Ashish-AVS" /></p>
-
+-->
 ### Feel Free to Contact Me
 
-[<img align="left" alt="Ashish_Gmail" width=25px src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:avsashish9@gmail.com)
-[<img align="left" alt="Ashish_Facebook" width=25px src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg">](https://www.facebook.com/avsashish/)
-[<img align="left" alt="Ashish_Linkedin" width=25px src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">](https://www.linkedin.com/in/ashishavs/)
+[<img align="left" alt="Ashish_Gmail" width=25px src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:bhardwajprince978@gmail.com)
+[<img align="left" alt="Ashish_Linkedin" width=25px src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">](https://www.linkedin.com/in/iamprincebhardwaj/)
 <!--
-**Ashish-AVS/Ashish-AVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**p21nc3/p21nc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
