@@ -3,8 +3,7 @@
 A final year student, with passion in Information Security and Developing.
 
 ![](https://stats-gray.vercel.app/api?username=p21nc3&show_icons=true&count_private=true&include_all_commits=true&title_color=83d1a2&icon_color=9ca1b8&text_color=9ca1b8&bg_color=0f0f13)  
-![](https://komarev.com/ghpvc/?username=p21nc3&color=83d1a2)
-
+![](https://komarev.com/ghpvc/?username=p21nc3&color=83d1a2)</br>
 90% of that^ is probably me :p
 
 <!--
