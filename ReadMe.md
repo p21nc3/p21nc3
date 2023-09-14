@@ -6,9 +6,9 @@
 
 ![](https://stats-gray.vercel.app/api?username=p21nc3&show_icons=true&count_private=true&include_all_commits=true&title_color=83d1a2&icon_color=9ca1b8&text_color=9ca1b8&bg_color=0f0f13) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p21nc3&show_icons=true&locale=en&layout=compact" alt="p21nc3" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p21nc3&" alt="p21nc3" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p21nc3&show_icons=true&locale=en&layout=compact" alt="p21nc3" /></p>
 
 ![](https://komarev.com/ghpvc/?username=p21nc3&color=83d1a2)</br>
 90% of that^ is probably me :p
