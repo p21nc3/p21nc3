@@ -1,3 +1,32 @@
+### Hi there, I'm Prince 👋
+<!--
+<img alt="GIF" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif"/>
+![Anshul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anshulforyou&show_icons=true)
+-->
+![](https://komarev.com/ghpvc/?username=p21nc3&label=PROFILE+VIEWS&color=blue&style=plastic)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=p21nc3&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p21nc3&layout=compact&show_icons=true)
+
+
+- 🔭 I’m currently working on Computer Systems and Security
+- 🌱 I’m currently learning Go and Backend
+- 💬 Ask me about Algorithms, Data Structures, and Competitive Programming
+- 📫 How to reach me: https:p21nc3.githib.io
+
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Prince Bhardwaj</h1>
 
 <h3 align="center">A final year student, with passion in Information Security and Developing.</h3>
