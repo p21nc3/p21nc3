@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Computer Systems and Security
 - 🌱 I’m currently learning Go and Backend
 - 💬 Ask me about Algorithms, Data Structures, and Competitive Programming
-- 📫 How to reach me: https:p21nc3.githib.io
+- 📫 How to reach me: https://p21nc3.githib.io
 
 <!--
 - 🔭 I’m currently working on ...
